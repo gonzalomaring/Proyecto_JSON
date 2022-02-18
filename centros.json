@@ -1,0 +1,678 @@
+{
+	"array": {
+		"directorios": {
+			"directorio": [
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Sanidad",
+								"id": 196,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "mariajose.delacruz@sespa.es",
+					"descripcion": {
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						"3ª planta",
+						{
+							"content": "Ambulatorio Dr Avelino Glez/ Pumarín - C/Orán, 18 - 3ª planta",
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 399 501",
+					"horario": {},
+					"identificador": 10338,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.528693 -5.677864",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "Dirección del Área de Gestión Clínica de salud mental de Gijón",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/10338-direccion-del-area-de-gestion-clinica-de-salud-mental-de-gijon",
+					"send": "fecha-actualizacion2015-07-13 10:24:39 +0200",
+					"telefono": {
+						"content": "985 389 288 Extensión 88466",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Mental,Sanidad",
+					"url": "http://www.gijon.es/directorios/show/10338-direccion-del-area-de-gestion-clinica-de-salud-mental-de-gijon",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Sanidad",
+								"id": 196,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "utt.cabuenes@sespa.princast.es",
+					"descripcion": {
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						{},
+						{
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 337 608",
+					"horario": {},
+					"identificador": 10337,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.532799 -5.653965",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "UTT - Unidad de Tratamiento de Toxicomanías",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/10337-utt-unidad-de-tratamiento-de-toxicomanias",
+					"send": "fecha-actualizacion2015-07-13 10:15:27 +0200",
+					"telefono": {
+						"content": "985 335 777",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Mental,Sanidad",
+					"url": "http://www.gijon.es/directorios/show/10337-utt-unidad-de-tratamiento-de-toxicomanias",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Sanidad",
+								"id": 196,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "saludmental.puertalavillaij@sespa.es",
+					"descripcion": {
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						"2ª planta",
+						{
+							"content": "Ambulatorio Puerta La Villa - C/Donato Argüelles, 20 - 2ª planta",
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 354 918",
+					"horario": {},
+					"identificador": 10336,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.53270 -5.64841",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "CMS IJ - Centro de salud mental Infanto-Juvenil",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/10336-cms-ij-centro-de-salud-mental-infanto-juvenil",
+					"send": "fecha-actualizacion2015-07-13 10:12:41 +0200",
+					"telefono": {
+						"content": "985 356 305",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Mental,Sanidad",
+					"url": "http://www.gijon.es/directorios/show/10336-cms-ij-centro-de-salud-mental-infanto-juvenil",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Sanidad",
+								"id": 196,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "saludmental.pumarin@sespa.es",
+					"descripcion": {
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						"2ª planta",
+						{
+							"content": "Ambulatorio Dr Avelino Glez/ Pumarín - C/Orán, 18 - 2ª planta",
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 399 501",
+					"horario": {},
+					"identificador": 10335,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.528693 -5.677864",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "CSM IV - Centro de salud mental Pumarín",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/10335-csm-iv-centro-de-salud-mental-pumarin",
+					"send": "fecha-actualizacion2015-07-13 10:09:57 +0200",
+					"telefono": {
+						"content": "985 143 290",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Mental,Sanidad",
+					"url": "http://www.gijon.es/directorios/show/10335-csm-iv-centro-de-salud-mental-pumarin",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Sanidad",
+								"id": 196,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "saludmental.elcoto@sespa.es",
+					"descripcion": {
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						"1ª planta",
+						{
+							"content": "Centro de Salud El Coto - C/Avelino González Mallada, s/n. - 1ª planta",
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 332 822",
+					"horario": {},
+					"identificador": 10334,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.532606 -5.648687",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "CSM III - Centro de salud mental El Coto",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/10334-csm-iii-centro-de-salud-mental-el-coto",
+					"send": "fecha-actualizacion2015-07-13 09:52:47 +0200",
+					"telefono": {
+						"content": "985 366 122",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Mental,Sanidad",
+					"url": "http://www.gijon.es/directorios/show/10334-csm-iii-centro-de-salud-mental-el-coto",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Sanidad",
+								"id": 196,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "saludmental.lacalzada@sespa.es",
+					"descripcion": {
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						{},
+						{
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 310 318",
+					"horario": {},
+					"identificador": 10333,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.53687 -5.700386",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "CSM II - Centro de salud mental La Calzada",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/10333-csm-ii-centro-de-salud-mental-la-calzada",
+					"send": "fecha-actualizacion2015-07-14 11:12:41 +0200",
+					"telefono": {
+						"content": "985 301 116",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Mental,Sanidad",
+					"url": "http://www.gijon.es/directorios/show/10333-csm-ii-centro-de-salud-mental-la-calzada",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Sanidad",
+								"id": 196,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "saludmental.puertalavilla@sespa.es",
+					"descripcion": {
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						"3ª planta",
+						{
+							"content": "3ª planta",
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 354 918",
+					"horario": {},
+					"identificador": 10332,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.539079 -5.664455",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "CSM I- Centro de salud mental Puerta la Villa",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/10332-csm-i-centro-de-salud-mental-puerta-la-villa",
+					"send": "fecha-actualizacion2015-07-13 10:17:18 +0200",
+					"telefono": {
+						"content": "985 342 005, 985 174 745",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Mental,Sanidad",
+					"url": "http://www.gijon.es/directorios/show/10332-csm-i-centro-de-salud-mental-puerta-la-villa",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": {
+							"content": "Centros de Salud Mental",
+							"id": 423,
+							"rdfa-property": "http://purl.org/dc/terms/subject"
+						}
+					},
+					"correo-electronico": "",
+					"descripcion": {
+						"content": "Servicios:\r\nTratamiento con metadona: desintoxicación con metadona, tratamiento a medio plazo, programa de internamiento con metadona.\r\nIntervación relacionadas con Salud Pública: analíticas, vacunaciones, etc...\r\nTratamiento de des",
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						"C/Ramón y Cajal, 39 Bajo (El Coto)",
+						{
+							"content": "C/Ramón y Cajal, 39 Bajo (El Coto)",
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 337 608",
+					"horario": {},
+					"identificador": 1374,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.532632 -5.653906",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "Unidad de Tratamiento de Toxicomanías de Gijón",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/1374-unidad-de-tratamiento-de-toxicomanias-de-gijon",
+					"send": "fecha-actualizacion2014-01-22 12:02:55 +0100",
+					"telefono": {
+						"content": "985 335 777",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Mental",
+					"url": "http://www.gijon.es/directorios/show/1374-unidad-de-tratamiento-de-toxicomanias-de-gijon",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Sanidad",
+								"id": 196,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "psiquiatria@hospitaldejove.com",
+					"descripcion": {
+						"content": "El Hospital de Jove es un centro perteneciente a una Fundación benéfico-privada sin ánimo de lucro que viene prestando asistencia sanitaria en la ciudad de Gijón, primero como Hospital de Caridad, y desde los años ochenta del siglo XX, en que el centro se transforma radicalmente, como un Hospital Comarcal más de la Red Hospitalaria Pública.",
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						"Avda. Eduardo Castro, s/n.",
+						{
+							"content": "Avda. Eduardo Castro, s/n.",
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 179 701",
+					"horario": {},
+					"identificador": 1373,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.549746 -5.70029",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "UHP - Unidad de Psiquiatría de Jove",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/1373-uhp-unidad-de-psiquiatria-de-jove",
+					"send": "fecha-actualizacion2015-07-13 10:21:35 +0200",
+					"telefono": {
+						"content": "985 325 000 Extensión: 84250",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Mental,Sanidad",
+					"url": "http://www.gijon.es/directorios/show/1373-uhp-unidad-de-psiquiatria-de-jove",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": 2010,
+								"id": 12,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Gijón",
+								"id": 44,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Sanidad",
+								"id": 196,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "saludmental.ctsomio@sespa.princast.es",
+					"descripcion": {
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						"Camino de las Begoñas, 87 (Somió)",
+						{
+							"content": "Camino de las Begoñas, 87 (Somió)",
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 196 203",
+					"horario": {},
+					"identificador": 501,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.535405 -5.624115",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "Comunidad Terapeútica Somió de Salud Mental",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/501-comunidad-terapeutica-somio-de-salud-mental",
+					"send": "fecha-actualizacion2015-07-13 10:16:49 +0200",
+					"telefono": {
+						"content": "985 367 883",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Mental,Sanidad",
+					"url": "http://www.gijon.es/directorios/show/501-comunidad-terapeutica-somio-de-salud-mental",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Primaria",
+								"id": 424,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": 2010,
+								"id": 12,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Gijón",
+								"id": 44,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Salud",
+								"id": 929,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "",
+					"descripcion": {
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						"Camino del Cura, 11 (La Camocha)",
+						{
+							"content": "Camino del Cura, 11 (La Camocha)",
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 137 080",
+					"horario": "Lunes a Viernes: 8:00-15:00h.No tiene urgencias.",
+					"identificador": 343,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.492067 -5.650481",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "Consultorio Médico Vega - La Camocha",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/343-consultorio-medico-vega-la-camocha",
+					"send": "fecha-actualizacion2014-01-22 12:02:28 +0100",
+					"telefono": {
+						"content": "985 137 372",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Primaria,Centros de Salud Mental,Salud",
+					"url": "http://www.gijon.es/directorios/show/343-consultorio-medico-vega-la-camocha",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Primaria",
+								"id": 424,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": 2010,
+								"id": 12,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Gijón",
+								"id": 44,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Salud",
+								"id": 929,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "",
+					"descripcion": {
+						"content": "No tiene urgencias.",
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						"Avda. de Los Campones, 86",
+						{
+							"content": "Consultores Médico de Tremañes - Avda. de Los Campones, 86",
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 315 953",
+					"horario": "Lunes a Viernes: 8:00-15:00h.",
+					"identificador": 342,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.530614 -5.696948",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "Consultorio Médico de Tremañes",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/342-consultorio-medico-de-tremanes",
+					"send": "fecha-actualizacion2014-01-22 12:02:28 +0100",
+					"telefono": {
+						"content": "985 315 953",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Primaria,Centros de Salud Mental,Salud",
+					"url": "http://www.gijon.es/directorios/show/342-consultorio-medico-de-tremanes",
+					"web": ""
+				},
+				{
+					"categorias": {
+						"categoria": [
+							{
+								"content": "Centros de Salud Mental",
+								"id": 423,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": 2010,
+								"id": 12,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Gijón",
+								"id": 44,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							},
+							{
+								"content": "Sanidad",
+								"id": 196,
+								"rdfa-property": "http://purl.org/dc/terms/subject"
+							}
+						]
+					},
+					"correo-electronico": "saludmental.montevil@sespa.princast.es",
+					"descripcion": {
+						"rdfa-property": "http://purl.org/dc/terms/description"
+					},
+					"direccion": [
+						"C/Álava, s/n.",
+						{
+							"content": "C/Álava, 67, ESQ. Les Cigarreres. - C/Álava, s/n.",
+							"rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+						}
+					],
+					"fax": "985 142 898",
+					"horario": {},
+					"identificador": 339,
+					"locale": "es",
+					"localizacion": {
+						"content": "43.521308 -5.680868",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#location"
+					},
+					"nombre": {
+						"content": "CTI Montevil - Centro de Tratamiento Integral Montevil",
+						"rdfa-property": "http://www.geonames.org/ontology#name"
+					},
+					"rdfa-id": "http://www.gijon.es/directorios/show/339-cti-montevil-centro-de-tratamiento-integral-montevil",
+					"send": "fecha-actualizacion2015-07-13 10:19:43 +0200",
+					"telefono": {
+						"content": "985 142 483",
+						"rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+					},
+					"tipo": "Centros de Salud Mental,Sanidad",
+					"url": "http://www.gijon.es/directorios/show/339-cti-montevil-centro-de-tratamiento-integral-montevil",
+					"web": ""
+				}
+			],
+			"rdfa": true,
+			"rdfa-class": "http://www.geonames.org/ontology#Feature"
+		}
+	}
+}
