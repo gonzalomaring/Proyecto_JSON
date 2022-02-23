@@ -5,7 +5,7 @@ Ejercicios:
 
 1. Mostrar el nombre y correo de cada centro.
 
-2. Contar todos los centros en los cuales su identificador es menor a 1000.
+2. Contar todos los centros en los cuales se actualizó su información en 2015.
 
 3. Mostrar el identificador del centro a partir de su nombre.
 
