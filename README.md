@@ -5,9 +5,9 @@ Ejercicios:
 
 1. Mostrar el nombre y correo de cada centro.
 
-2. Contar todos los centros de los que tenemos información
+2. Contar todos los centros en los cuales su identificador es menor a 1000.
 
-3. Mostrar el centro y su dirección a partir de su correo electrónico.
+3. Mostrar el identificador del centro a partir de su nombre.
 
 4. Muestra el nombre y nº de teléfono completo de los centros de los cuales cuyo nº de teléfono empiece por el dato introducido
 
