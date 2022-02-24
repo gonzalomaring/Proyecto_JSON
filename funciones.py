@@ -15,12 +15,15 @@ def nombreycorreo(datos):
 
 def contar_actualizacion(datos,año):
 	lista=[]
+	contador=0
 	for var in datos.get("array").get("directorios").get("directorio"):
-		if año in var.get("send"):
+		send=var.get("send")
+		if año==send[19:23]:
+			contador+=1
 			nombre2=var.get("nombre")
 			content=nombre2.get("content")
 			lista.append(content)
-	return lista
+	return contador
 
 def verfax(datos,nombre):
 	fax=""

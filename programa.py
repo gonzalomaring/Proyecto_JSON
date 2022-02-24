@@ -11,8 +11,7 @@ while opcion!=6:
         opcion=int(input("Elige una opción: "))
     elif opcion==2:
         año=input("Introduce el año: ")
-        for a in contar_actualizacion(datos,año):
-            print("El centro",a,"ha tenido una actualización de su información en el año introducido")
+        print("Hay",contar_actualizacion(datos,año),"de los que se han actualizado sus datos en el año introducido")
         opcion=int(input("Elige una opción: "))
     elif opcion==3:
             nombre=input("Introduce el nombre del centro: ")
