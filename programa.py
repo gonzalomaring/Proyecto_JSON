@@ -6,22 +6,26 @@ print(menu())
 opcion=int(input("Elige una opción: "))
 while opcion!=6:
     if opcion==1:
-        for a in ejercicio1(datos):
+        for a in nombreycorreo(datos):
             print("El nombre es",a[0],"y su correo es",a[1])
         opcion=int(input("Elige una opción: "))
     elif opcion==2:
-        for a in ejercicio2(datos):
+        año=input("Introduce el año: ")
+        for a in contar_actualizacion(datos,año):
             print("El centro",a,"ha tenido una actualización de su información en el año introducido")
         opcion=int(input("Elige una opción: "))
     elif opcion==3:
-            print("El fax es",ejercicio3(datos))
+            nombre=input("Introduce el nombre del centro: ")
+            print("El fax es",verfax(datos,nombre))
             opcion=int(input("Elige una opción: "))
     elif opcion==4:
-        for a in ejercicio4(datos):
+        numero=input("Introduce un número: ")
+        for a in telefono_completo(datos,numero):
             print("El nombre es",a[0],"y el número completo es",a[1])
         opcion=int(input("Elige una opción: "))
     elif opcion==5:
-        for a in ejercicio5(datos):
+        telefono=input("Introduce un número de teléfono: ")
+        for a in nombre_correo_direccion(datos,telefono):
             print("El nombre es",a[0],"el correo es",a[1],"y la dirección del centro es",a[2])
         opcion=int(input("Elige una opción: "))
     elif opcion==7:

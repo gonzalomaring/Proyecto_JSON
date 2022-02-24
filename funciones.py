@@ -2,7 +2,7 @@ def menu():
 	menu=("Menu:\n1.Ver nombre y correo de cada centro\n2.Contar los centros cuya información se actualizó en un año especificado\n3.Mostrar el fax del centro a partir de su nombre\n4.Ver nombre y nº teléfono de los centros cuyo nº empiece por el dato introducido\n5.Ver nombre,correo y dirección a partir del nº de teléfono\n6. Salir")
 	return(menu)
 
-def ejercicio1(datos):
+def nombreycorreo(datos):
 	nombre=[]
 	correo=[]
 	salida=[]
@@ -13,9 +13,8 @@ def ejercicio1(datos):
 		salida.append(var)
 	return salida
 
-def ejercicio2(datos):
+def contar_actualizacion(datos,año):
 	lista=[]
-	año=input("Introduce el año: ")
 	for var in datos.get("array").get("directorios").get("directorio"):
 		if año in var.get("send"):
 			nombre2=var.get("nombre")
@@ -23,30 +22,27 @@ def ejercicio2(datos):
 			lista.append(content)
 	return lista
 
-def ejercicio3(datos):
+def verfax(datos,nombre):
 	fax=""
-	nombre=input("Introduce el nombre del centro:")
 	for var in datos.get("array").get("directorios").get("directorio"):
 		if nombre==var.get("nombre").get("content"):
 			fax=var.get("fax")
 	return fax
 
-def ejercicio4(datos):
+def telefono_completo(datos,numero):
 	nombre=[]
 	telefono=[]
 	salida=[]
-	dato=input("Introduce un número: ")
 	for var in datos.get("array").get("directorios").get("directorio"):
-		if dato in var.get("telefono").get("content"):
+		if numero in var.get("telefono").get("content"):
 			nombre.append(var.get("nombre").get("content"))
 			telefono.append(var.get("telefono").get("content"))
 	for var in zip(nombre,telefono):
 		salida.append(var)
 	return salida
 
-def ejercicio5(datos):
-	dato=input("Introduce un número de teléfono: ")
-	dato2=' '.join((dato[:3], dato[3:6], dato[6:9]))
+def nombre_correo_direccion(datos,telefono):
+	dato2=' '.join((telefono[:3], telefono[3:6], telefono[6:9]))
 	nombre=[]
 	correo=[]
 	direccion=[]
